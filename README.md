@@ -41,10 +41,6 @@ This project implements a MATLAB-based simulation of a three-phase PWM rectifier
 ## 📦 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pwm-rectifier-analysis.git
-   cd pwm-rectifier-analysis
-   ```
 
 2. Open MATLAB and navigate to the project directory
 
@@ -154,13 +150,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Authors
 
-- **Eman Arshad** - *Initial work and implementation*
-- **Abubakar Zubair** - *Code development and testing*
-- **Ahmed Shah** - *Documentation and analysis*
 
-**Class**: BSCE-4  
-**Course**: Signals and Systems Lab  
-**Supervisor**: Mam Shahinza
+- **Abubakar Zubair** - *Code development and testing*
+
 
 ## 📄 License
 
@@ -176,9 +168,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support, please contact:
 
-- **Email**: your.email@example.com
+- **Email**: abubakarkhan17110@gmail.com
 - **Institution**: KICSIT
-- **Project Repository**: [GitHub Link](https://github.com/yourusername/pwm-rectifier-analysis)
+- **Project Repository**: [GitHub Link](https://github.com/AbubakarZubair/pwm-rectifier-analysis)
 
 ---
 
